@@ -1,0 +1,1 @@
+if (if (iszero (0)) then true else false fi) then false else true

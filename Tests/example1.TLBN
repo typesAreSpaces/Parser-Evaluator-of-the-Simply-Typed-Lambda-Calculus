@@ -1,0 +1,2 @@
+app (abs (x: Nat . succ(succ(x))),
+		succ(0))

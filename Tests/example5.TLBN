@@ -1,0 +1,1 @@
+app (abs (x:Nat.x), pred(succ(succ(succ(succ(0))))))
